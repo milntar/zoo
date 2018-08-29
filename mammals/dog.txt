@@ -1,0 +1,8 @@
+Dogs a domsticated animals who loyal to their owners.
+There are many breeds of dogsL
+- Dalmation
+- Great Dane
+- Jack Russel
+- Labrador
+- Poodle
+- German Shepard
